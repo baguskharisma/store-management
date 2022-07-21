@@ -94,6 +94,7 @@
           <option value="rusak">Rusak</option>
           <option value="hilang">Hilang</option>
           <option value="kadaluarsa">Kadaluarsa</option>
+          <option value="habis">Habis</option>
         </select>
       </div>
       <button class="btn btn-success" type="submit">Add</button>

@@ -26,7 +26,7 @@
                     <li class="header">MAIN NAVIGATION</li>
                     <li class="active">
                         <a href="<?php echo base_url('admin/p/home') ?>">
-                            <i class="fa fa-home fa-fw fa-2x"></i>
+                            <i class="fa-solid fa-book-user"></i>
                             <span>Home</span>
                         </a>
                     </li>
